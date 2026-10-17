@@ -1,0 +1,8 @@
+*   4a29a52 (merge-result) Merge test into master
+|\
+| * efca85f (source-test) A Замена сложения на вычитание
+| * 9908a61 Добавление gitignore
+* | 054b708 (source-master) Добавление ввода двух переменных
+|/
+* 927c281 Добавлен файл с кодом
+* aa58ef5 Добавлен текстовый файл
