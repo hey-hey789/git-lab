@@ -1,0 +1,9 @@
+diff --git a/main.py b/main.py
+new file mode 100644
+index 0000000..25cb581
+--- /dev/null
++++ b/main.py
+@@ -0,0 +1,2 @@
++a = int(input(f'Введите число a:'))
++b = int(input(f'Введите число b:'))
+\ No newline at end of file
