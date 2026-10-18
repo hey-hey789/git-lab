@@ -1,0 +1,28 @@
+* 1fadf29 (server) C10
+* d6098c6 C4
+* b3c1af7 Добавление ввода двух переменных
+* d3fc8c0 (HEAD -> master11, client) C9
+* e3807a8 C8
+| * d610e60 (task10-new) Два изменения одним коммитом
+| * a61ff3d (test, task11, master) A Замена сложения на вычитание
+| * be6fc4f Добавление gitignore
+| | * 3a437c9 (task10) Два изменения одним коммитом
+| | * 3283bee (bonus-merge-master) Merge без конфликта
+| |/|
+| | * 0c15b8d (bonus-no-conflict-test) Добавлен файл для проверки слияния без конфликта
+| | | * 4a29a52 (merge-result) Merge test into master
+| | |/|
+| |/|/
+| |/|
+|/| |
+* | | efca85f A Замена сложения на вычитание
+* | | 9908a61 Добавление gitignore
+| |/
+|/|
+| | * c0bad01 (origin/master, origin/ChmutovaEY, backup-before-graph, ChmutovaEY) Замена сложения на вычитание
+| | * 193c5ee Добавление gitignore
+| |/
+| * 054b708 (source-master) Добавление ввода двух переменных
+|/
+* 927c281 Добавлен файл с кодом
+* aa58ef5 Добавлен текстовый файл
